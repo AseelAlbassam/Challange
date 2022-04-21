@@ -2,7 +2,7 @@
 
 This is a challange to clone a UI to a code with swiftUI
 
-This is my code
+This is my code results 
 ![cchallangeA](https://user-images.githubusercontent.com/61311642/164340224-515248aa-ad4f-49df-a6e5-9bcbd774b926.png)
 
 
